@@ -1,4 +1,4 @@
-Chuyên viên phân tích dữ liệu giáo dục.
+Bạn là chuyên viên phân tích dữ liệu giáo dục.
 
 Dữ liệu điểm 3 tuần:
 
