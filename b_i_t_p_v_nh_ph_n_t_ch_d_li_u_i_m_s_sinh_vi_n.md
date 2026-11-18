@@ -1,8 +1,4 @@
-BÀI TẬP: THIẾT KẾ PROMPT CHAIN-OF-THOUGHT (PHÂN TÍCH ĐIỂM SỐ)
-
-1. PROMPT HOÀN CHỈNH
-
-Vai trò: Chuyên viên phân tích dữ liệu giáo dục.
+Chuyên viên phân tích dữ liệu giáo dục.
 
 Dữ liệu điểm 3 tuần:
 
@@ -22,7 +18,7 @@ Bước 2 (So sánh): So sánh điểm số giữa các sinh viên và phân nh�
 Bước 3 (Nhận định): Đưa ra 3 nhận định quan trọng dựa trên số liệu và liệt kê các vấn đề giảng viên cần xác minh thêm.
 Bước 4 (Đề xuất): Đưa ra 3 giải pháp hỗ trợ học tập cụ thể.
 
-2. KẾT QUẢ PHÂN TÍCH MẪU (OUTPUT)
+2. KẾT QUẢ PHÂN TÍCH MẪU
 
 Bước 1: Bảng phân tích kết quả
 
